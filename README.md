@@ -34,19 +34,19 @@ In this application, session cookie and encryption with GoogleTink are used.
 # Project Display Image
 
 <p>
-<a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
+<a>
     <img src="NOTE-APP/LOGİN.png" style="max-width:100%;"> 
 </a>
-    <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
+    <a>
     <img src="NOTE-APP/TABLE.png" style="max-width:100%;"> 
 </a>
-       <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
-    <img src=NOTE-APP/UPDATE.png" style="max-width:100%;"> 
+       <a>
+    <img src="NOTE-APP/UPDATE.png" style="max-width:100%;"> 
 </a>
-       <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
+       <a >
     <img src="NOTE-APP/SEARCH.png" style="max-width:100%;"> 
 </a>
-       <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
+       <a >
     <img src="NOTE-APP/REGISTER.png" style="max-width:100%;"> 
 </a>
 </p>
