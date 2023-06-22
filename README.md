@@ -1,6 +1,6 @@
 # Spring-Mvc-Note-App
 <p> 
-It enables a business to interact with all relevant users by adding, deleting and updating users under admin control and provides a dynamic service.
+After a consumer or a normal user loses the administrative control user login, it provides a dynamic service such as adding users and notes, deleting and updating their notes, and provides a dynamic service.
 
 JAVA, SPRING BOOT, THYMELEAF,HTML 5,CSS,MYSQL technologies are used in the application.
 </p>
@@ -15,11 +15,11 @@ JAVA, SPRING BOOT, THYMELEAF,HTML 5,CSS,MYSQL technologies are used in the appli
 # Application Features:
 - [x] User Login
 - [x] User Add
-- [x] User Listing
-- [x] User Searching
-- [x] User Update
-- [x] User Delete
-- [x] User Delete/Undo
+- [x] Note Listing
+- [x] Note Searching
+- [x] Note Update
+- [x] Note Delete
+- [x] Note Delete/Undo
 - [x] User Logout  
 
 ## Project Note:
@@ -35,18 +35,18 @@ In this application, session cookie and encryption with GoogleTink are used.
 
 <p>
 <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
-    <img src="USER-APP-FOTO/LOGİN.png" style="max-width:100%;"> 
+    <img src="NOTE-APP/LOGİN.png" style="max-width:100%;"> 
 </a>
     <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
-    <img src="USER-APP-FOTO/USER TABLO.png" style="max-width:100%;"> 
+    <img src="NOTE-APP/TABLE.png" style="max-width:100%;"> 
 </a>
        <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
-    <img src="USER-APP-FOTO/UPDATE.png" style="max-width:100%;"> 
+    <img src=NOTE-APP/UPDATE.png" style="max-width:100%;"> 
 </a>
        <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
-    <img src="USER-APP-FOTO/SEARCH.png" style="max-width:100%;"> 
+    <img src="NOTE-APP/SEARCH.png" style="max-width:100%;"> 
 </a>
        <a href="https://github.com/hakanozer/AndroidCampaigns/blob/master/ekran_goruntuleri/1.png" target="_blank">
-    <img src="USER-APP-FOTO/USER ADD.png" style="max-width:100%;"> 
+    <img src="NOTE-APP/REGISTER.png" style="max-width:100%;"> 
 </a>
 </p>
