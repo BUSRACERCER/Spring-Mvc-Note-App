@@ -1,6 +1,6 @@
 # Spring-Mvc-Note-App
 <p> 
-After a consumer or a normal user loses the administrative control user login, it provides a dynamic service such as adding users and notes, deleting and updating their notes, and provides a dynamic service.
+After a consumer or a regular user saves the admin control user input, it provides a dynamic service such as adding user and notes, deleting and updating their notes, and provides a dynamic service.
 
 JAVA, SPRING BOOT, THYMELEAF,HTML 5,CSS,MYSQL technologies are used in the application.
 </p>
